@@ -60,6 +60,20 @@ The application was tested using synthetic evidence files to validate:
 - Successful verification of unchanged files
 - Detection of modified file contents
 
+## Application Screenshots
+
+### Evidence Registration
+![Registration](screenshots/registration.png)
+
+### Registered Evidence
+![Registered](screenshots/registered.png)
+
+### Successful Verification
+![Success](screenshots/verification_success.png)
+
+### Modified File Detection
+![Failure](screenshots/verification_failed.png)
+
 ## Limitations and Future Improvements
 
 EvidenceVault is an educational prototype and is not intended for operational forensic investigations.
