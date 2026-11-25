@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+registry.json
+sample.txt
+modified.txt
+.env
